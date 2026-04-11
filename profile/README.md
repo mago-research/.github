@@ -4,7 +4,7 @@
 
 **M**achine learning for **A**udio, speech, and **G**eneral **O**ptimization
 
-We build and share open-source tools for audio processing, speaker diarization, and speech AI research.
+We build and share open-source tools for speech recognition, speaker diarization, and speech AI research.
 
 </div>
 
