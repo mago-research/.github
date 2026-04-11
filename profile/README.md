@@ -19,9 +19,9 @@ We build and share open-source tools for audio processing, speaker diarization, 
 <br/><br/>
 Extending NVIDIA's Sortformer streaming diarization model to support <b>N &gt; 4</b> speakers via SVD-based orthogonal initialization and split learning rates.
 <br/><br/>
-<img src="https://img.shields.io/badge/●-3776AB?style=flat-square" /> Python &nbsp;
-<img src="https://img.shields.io/github/stars/mago-research/Ultra-Sortformer?style=flat-square&logo=star&label=★&color=gray" />
-<img src="https://img.shields.io/github/forks/mago-research/Ultra-Sortformer?style=flat-square&label=⑂&color=gray" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/mago-research/Ultra-Sortformer?style=flat-square&color=gray&label=" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/mago-research/Ultra-Sortformer?style=flat-square&color=gray&label=" />
 </td>
 <td width="50%" valign="top">
 </td>
