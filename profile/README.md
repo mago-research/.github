@@ -32,6 +32,35 @@ Extending NVIDIA's Sortformer streaming diarization model to support <b>N &gt; 4
 
 ---
 
+<h3>📦 SDKs</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mago-research/audion-python-sdk"><b>audion-python-sdk</b></a> &nbsp; <img src="https://img.shields.io/badge/-Public-8957e5?style=flat-square" />
+<br/><br/>
+Python SDK for the Audion API — speech recognition and audio AI integration.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/mago-research/audion-python-sdk?style=flat-square&color=gray&label=" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/mago-research/audion-python-sdk?style=flat-square&color=gray&label=" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mago-research/audion-java-sdk"><b>audion-java-sdk</b></a> &nbsp; <img src="https://img.shields.io/badge/-Public-8957e5?style=flat-square" />
+<br/><br/>
+Java SDK for the Audion API — speech recognition and audio AI integration.
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/mago-research/audion-java-sdk?style=flat-square&color=gray&label=" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/mago-research/audion-java-sdk?style=flat-square&color=gray&label=" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 <div align="center">
 <a href="https://github.com/orgs/mago-research/repositories">Browse all repositories →</a>
 &nbsp;&nbsp;&nbsp;
